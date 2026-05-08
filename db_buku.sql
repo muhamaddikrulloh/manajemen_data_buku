@@ -1,10 +1,10 @@
 CREATE DATABASE IF NOT EXISTS db_buku;
 USE db_buku;
 
-CREATE TABLE buku {
+CREATE TABLE buku (
     id INT AUTO_INCREMENT PRIMARY KEY,
     judul VARCHAR(255) NOT NULL,
     pengarang VARCHAR(255) NOT NULL,
     tahun YEAR NOT NULL,
     foto VARCHAR(255) NOT NULL
-}
+)
