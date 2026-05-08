@@ -30,7 +30,7 @@ if ($_POST) {
 <head>
     <meta charset="UTF-8">
     <title>Form Buku</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
@@ -50,6 +50,6 @@ if ($_POST) {
 
 <button type="button" onclick="location.href='index.php'">Kembali</button>
     
-<script src="script.js"></script>
+<script src="scripts/script.js"></script>
 </body>
 </html>
