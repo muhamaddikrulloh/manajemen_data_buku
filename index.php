@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Manajemen Data Buku</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
@@ -40,6 +40,6 @@
     <?php endwhile; ?>
 </table>
 
-<script src="script.js"></script>
+<script src="scripts/script.js"></script>
 </body>
 </html>
