@@ -8,4 +8,4 @@ NIM	: 2430511076
 Kelas	: 4B
 ```
 ## Screenshot Website
-![Screenshot Web](uploads/image.png)
+![Screenshot Web](uploads/screenshot.png)
