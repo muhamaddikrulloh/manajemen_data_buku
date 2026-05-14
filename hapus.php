@@ -1,5 +1,5 @@
 <?php
-include 'koneksi.php';
+include 'config/koneksi.php';
 
 $id = $_GET['id'];
 $r  = mysqli_fetch_assoc(mysqli_query($koneksi, "SELECT foto FROM buku WHERE id=$id"));

@@ -1,5 +1,5 @@
 <?php
-include 'koneksi.php';
+include 'config/koneksi.php';
 
 $id   = $_GET['id'] ?? 0;
 $r    = ['judul'=>'','pengarang'=>'','tahun'=>'','foto'=>''];
